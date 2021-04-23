@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Santiago Pacheco
-- 🌱 I’m currently learning JavaScript, HTML and CSS using The Odin Project and freeCodeCamp
+- 🌱 I’m currently learning JavaScript, HTML and CSS with The Odin Project and freeCodeCamp
